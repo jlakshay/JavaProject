@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="EmployeeProject" method="POST">
+Id: <input type="text" name="empid"/>
+<br/>
+Name:<input type="text" name="empname"/>
+<br/>
+Age:<input type="text" name="empage"/>
+<br/>
+Salary:<input type="text" name="empsalary"/>
+<br/>
+<input type="submit" value="submit"/>
+<input type>
+</form>
+</body>
+</html>
